@@ -78,7 +78,8 @@ Please note that root access is required.
 
 #### Using installer
  ```
- curl -sSf https://raw.githubusercontent.com/drygdryg/OneShot_Termux_installer/master/installer.sh | bash
+ kg install -y root-repo 
+pkg install -y git tsu python wpa-supplicant pixiewps iw
  ```
 #### Manually
 **Installing requirements**
