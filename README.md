@@ -78,8 +78,7 @@ Please note that root access is required.
 
 #### Using installer
  ```
- kg install -y root-repo 
-pkg install -y git tsu python wpa-supplicant pixiewps iw
+curl -sSf https://raw.githubusercontent.com/snigdho48/Wifi/master/installer.sh | bash
  ```
 #### Manually
 **Installing requirements**
