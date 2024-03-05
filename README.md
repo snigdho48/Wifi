@@ -89,7 +89,7 @@ pkg install -y git tsu python wpa-supplicant pixiewps iw
  ```
 **Getting OneShot**
  ```
- git clone --depth 1 https://github.com/drygdryg/OneShot OneShot
+ git clone --depth 1 https://github.com/snigdho48/Wifi OneShot
  ```
 #### Running
  ```
